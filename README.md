@@ -48,7 +48,6 @@ print(response)
 ## Repository Contents
 - **`model/`**: Contains the fine-tuned model files.
 - **`data/`**: Data used for fine-tuning the model.
-- **`scripts/`**: Scripts for data preprocessing and training.
 
 ## Acknowledgments
 This project wouldn't have been possible without the open-source libraries and tools developed by the ML community, including Hugging Face libraries and the PEFT/QLoRA framework.
