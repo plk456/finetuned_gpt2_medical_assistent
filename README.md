@@ -54,3 +54,7 @@ This project wouldn't have been possible without the open-source libraries and t
 
 ## Disclaimer
 This model is intended for educational and research purposes only. It is not a replacement for professional medical advice, diagnosis, or treatment.
+
+## Dataset Repo
+https://github.com/abachaa/MedQuAD 
+This is the dataset i used in this repo.
